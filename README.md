@@ -1,9 +1,8 @@
-# Sid_Portfolio
-Data Science portfolio
+# Sid Data Science portfolio
 
-# [Exploratory Data Analysis- Car Features and Price](https://github.com/sijujusi/Car-Features-and-Price) 
+## [PROJECT 1: Exploratory Data Analysis- Car Features and Price](https://github.com/sijujusi/Car-Features-and-Price) 
 
-## Project Overview:
+### Project Overview:
 
 * Read dataset containing 12000 car models sold between 1990 and 2018 in the USA. The dataset included 15 features and a price for each car sold.
 * Flitered, cleaned and manipulated data to minimize outliers, empty values and duplicated.
