@@ -27,6 +27,6 @@
 * Applied regression models such as Linear, Lasso, ridge, K-Nearest Neighbors, Decision Tree and Random Forest
 * Compared results for different regression models
 
-![](/images/modelcomparison.png)
+![](/images/modelcomparison_test.png)
 
 ![](/images/Table.JPG)
