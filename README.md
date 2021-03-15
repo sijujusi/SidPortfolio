@@ -30,3 +30,14 @@
 ![](/images/modelcomparison_test.png)
 
 ![](/images/Table.JPG)
+
+
+## [PROJECT 3: Cluster Analysis- Mall Customer Segmentation Data](https://github.com/sijujusi/Mall-Customer-Segmentation-Data) 
+
+### Project Overview:
+
+* Applied K-Means clustering model to identify optimum number of clusters and clusters based upon annual income and spending score.
+
+![](/images/optimum_clusters.png)
+
+![](/images/cluster.png)
